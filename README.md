@@ -22,6 +22,8 @@ Nach der erfolgreichen Anmeldung könnt ihr euch einloggen. Das sieht dann etwa 
 
 ![Github](./images/createrepo.png)
 
-
 Damit wir nicht zu viel Zeit verlieren, wäre es gut, wenn ihr den Github Login schon vorher erstellen könnt.
+
+Falls Ihr einige (2-3) Fotos verwenden wollt, könnt ihr die auch schon bereit legen. (z.B. auf euren Desktop kopieren)
+
 Am Sonntag geht's dann hier weiter :)
