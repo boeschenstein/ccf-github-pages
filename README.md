@@ -20,7 +20,7 @@ Wer also Lust hat, innert wenigen Minuten selber ein *statische* Webseite mit Fo
 
 ## Account erstellen
 
-Als Erstes müsst ihr einen Github Account erstellen: <https://github.com/>
+Als Erstes müsst ihr einen Github Account erstellen: <https://github.com/>. Das ist kostenlos. Github gehört übrigens Microsoft.
 
 ![Anmeldung](./images/signup.png)
 
