@@ -78,7 +78,7 @@ Die Webseite könnt ihr mit click auf "Commit changes" speichern. Nach ein paar 
 
 ## Fotos hochladen
 
-Bevor ihr Fotos anzeigen könnt, müsst ihr sie auf den Webserver hochladen.
+Bevor ihr Fotos anzeigen könnt, müsst ihr sie auf den Github Server hochladen.
 ...
 
 ## Tabelle
