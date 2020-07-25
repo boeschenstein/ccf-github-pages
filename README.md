@@ -1,5 +1,23 @@
 # CCF: Github pages
 
+- [CCF: Github pages](#ccf-github-pages)
+  - [Worum geht es?](#worum-geht-es)
+  - [Account erstellen](#account-erstellen)
+  - [Anmelden](#anmelden)
+  - [Repository erstellen](#repository-erstellen)
+  - [Webseite testen](#webseite-testen)
+  - [Readme bearbeiten](#readme-bearbeiten)
+  - [Markdown bearbeiten](#markdown-bearbeiten)
+  - [Bilder](#bilder)
+    - [Bilder hochladen](#bilder-hochladen)
+  - [Tabelle](#tabelle)
+  - [Auf/Zuklappen](#aufzuklappen)
+  - [Formatieren von Code](#formatieren-von-code)
+  - [Emojies](#emojies)
+  - [Markdown Varianten](#markdown-varianten)
+
+## Worum geht es?
+
 >Vortrag für CCF (Computer Club Frauenfeld)
 
 Github ist ein kostenloser Online Speicher für Source Code. Eine Webseite besteht auch aus Source Code. Source Code sind reine Textdateien.
@@ -83,6 +101,8 @@ Bitte übt jetzt mal die verschiedenen Markdown Formatierungen, speichert die We
 ### Bilder hochladen
 
 Bevor ihr Bilder anzeigen könnt, müsst ihr sie auf den Github Server hochladen. Mit "Upload Files" startet ihr in die Upload Funktion:
+
+Damit die Buttons sichtbar werden, muss zuerst auf das Repository gewechselt werden. Dazu muss ich in meinem Fall auf "ccf-github-pages" klicken.
 
 ![Upload starten](./images/uploadstart.png)
 
